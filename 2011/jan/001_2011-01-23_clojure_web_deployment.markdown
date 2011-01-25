@@ -1,10 +1,9 @@
 ---
 type: regular
 post-id: 2909076530
-state: draft
+state: published
 format: markdown
 tags: clojure, compojure, web, trinidad
-date: 01/23/2011
 title: deployment of a compojure web app
 ---
 
