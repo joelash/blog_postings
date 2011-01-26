@@ -1,6 +1,6 @@
 ---
 type: regular
-state: draft
+state: published
 post-id: 2921208153
 format: markdown
 date: 2011-01-24T22:26:23-06:00
